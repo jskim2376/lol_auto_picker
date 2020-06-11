@@ -1,0 +1,6 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -0 +0 @@
+-img/
+\ No newline at end of file
++img/champion/
+\ No newline at end of file
